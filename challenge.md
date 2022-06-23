@@ -82,6 +82,10 @@ Jury prize: <span class="list-marking">Ishan Dave, Naman Biyani, Brandon Clark, 
 
 Jury prize: <span class="list-marking">Siyu Chen, Dengjie Li, Lishuai Gao, Fan Liang, Wei Zhang, Lin Ma. *Fudan University & Meituan*.</span>
 
+## Reports
+
+In the interest of the competition, we make available the reports corresponding to the final leaderboards. They can be downloaded in a single ZIP file, available [here](assets/downloads/reports.zip).
+
 ## Important dates
 
 - ~~Challenges open: July 5, 2021~~;
