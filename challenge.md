@@ -36,7 +36,7 @@ Synergy Sports is changing how sport is organised, played, coached, commercializ
 
 The final results of the challenge are listed below. Only challenge entries accompanied by a technical report qualified for the final rankings. In response to concerns raised about the extension of the submission deadline, we have decided to merge the leaderboards at the time of the original deadline and at the time of the extended deadline. This means that all competitors will place at the rank that is highest between the two deadlines, and there are shared ranks. All first through third placed competitors, as well as the winners of the jury prize, will receive a digital signed certificate.
 
-In the interest of the competition, we make available the reports corresponding to the final leaderboards. They can be downloaded in a single ZIP file, available [here](https://vipriors.github.io/202/assets/downloads/reports.zip).
+In the interest of the competition, we make available the reports corresponding to the final leaderboards. They can be downloaded in a single ZIP file, available [here](https://vipriors.github.io/2021/assets/downloads/reports.zip).
 
 ### Image classification
 
